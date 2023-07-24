@@ -1,7 +1,7 @@
 # Определение стоимости автомобилей
 
 
-[ipynb](https://clck.ru/355mxx)
+[ipynb](https://clck.ru/355oNk)
 
 ## Описание проекта
 
