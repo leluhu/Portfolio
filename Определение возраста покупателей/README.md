@@ -18,7 +18,7 @@
 - tensorflow.keras.layers.**Dense**
 - tensorflow.keras.models.**Sequential**
 - tensorflow.keras.optimizers.**Adam**
--tensorflow.keras.applications.resnet.**ResNet50**
+- tensorflow.keras.applications.resnet.**ResNet50**
 - PIL.**Image**
 - **matplotlib**
 
